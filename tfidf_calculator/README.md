@@ -6,8 +6,8 @@ Although such tools exist already, my hope, besides doing some coding practice, 
 
 The texts are saved in .txt files in the _files_ folder. 
 
-Here, just for the sake of the example, the texts are taken from (Wikipedia's English page for _Natural Language Processing_)[https://en.wikipedia.org/wiki/Natural_language_processing].
+Here, just for the sake of the example, the texts are taken from [Wikipedia's English page for _Natural Language Processing_](https://en.wikipedia.org/wiki/Natural_language_processing).
 
-The list of English stop-words, in the stopwords.txt file, was taken from (here)[https://www.ranks.nl/stopwords].
+The list of English stop-words, in the stopwords.txt file, was taken from [here](https://www.ranks.nl/stopwords).
 
 This is only a first version, and many things can and should be done. 
